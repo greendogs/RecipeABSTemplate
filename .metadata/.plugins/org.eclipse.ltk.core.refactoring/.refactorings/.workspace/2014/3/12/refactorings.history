@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;11_ViewPager_CriminalIntent&apos;" deleteContents="false" description="Delete resource &apos;11_ViewPager_CriminalIntent&apos;" element1="/11_ViewPager_CriminalIntent" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1395393519944"/>
+</session>

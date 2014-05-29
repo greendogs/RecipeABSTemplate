@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+/Users/mrmac/Documents/AndroidStudio/.metadata/.plugins/org.eclipse.jdt.core
+1016138867.index
+2066677279.index

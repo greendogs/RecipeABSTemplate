@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, RecipesAppActivity!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Recipes App</string>
+    <string name="search_by">Search by name</string>
+    <string name="search">Search</string>
+    <string name="summary">Summary</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="directions">Directions</string>
+    <string name="alert">Recipe you search not found</string>
+    <string name="loading_data">Loading data...</string>
+    <string name="prep_time">PREP:</string>
+    <string name="cook_time">COOK:</string>
+    <string name="min">min</string>
+    <string name="serves">SERVES:</string>
+    <string name="share_it">Share it</string>
+    <string name="rate_it">Rate it</string>
+    <string name="about">About</string>
+    <string name="subject">Recipes App: App that will help you to cook</string>
+    <string name="message">Download it now on Google Play:</string>
+    <string name="gplay_url">market://details?id=com.your.package</string>
+    <string name="gplay_web_url">https://play.google.com/store/apps/details?id=com.your.package</string>
+    <string name="share_via">Share via</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut fringilla diam. Nulla ullamcorper diam tempus lobortis lacinia. Aliquam quis dolor porttitor, faucibus felis a, vestibulum enim. Cras condimentum tempus lorem id molestie. Suspendisse ultrices egestas malesuada. Maecenas lectus purus, fermentum a tincidunt eget, gravida ut quam. Ut rutrum eget eros at sagittis. Proin dapibus euismod convallis. Praesent non purus sollicitudin, adipiscing risus eu, fermentum ligula. Mauris a est non sem vehicula varius.</string>
+    <string name="copyright">&#169; pongodev.com 2013. All rights reserved.</string>
+    <string name="search_hint">Search recipes</string>
+    <string name="menu_search">Search</string>
+    <string name="detail">RECIPE DETAIL</string>
+    <string name="no_data">NO DATA</string>
+
+</resources>

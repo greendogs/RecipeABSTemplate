@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.actionbarsherlock.internal.widget.TabsLinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    style="?attr/actionBarTabBarStyle"
+/>
+<!-- From: file:/Users/mrmac/Documents/5_D_Templates/Recipes_Sherlock/AndroidStudio/ActionbarSherlockLibrary/res/layout/abs__action_bar_tab_bar_view.xml -->

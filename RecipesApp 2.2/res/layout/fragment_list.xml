@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/abs__background_holo_light" >
+    <ListView
+		android:id="@+id/list"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:fadeScrollbars="true"
+		android:fastScrollEnabled="true"
+		android:fadingEdge="none"
+		android:divider="@android:color/darker_gray"
+		android:dividerHeight="1dp"
+		android:listSelector="@drawable/list_selector_holo_light"
+		android:scrollbarThumbVertical="@drawable/fastscroll_thumb_holo"
+		android:layout_alignParentTop="true"/>
+	
+    <TextView
+	    android:id="@+id/txtAlert"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="@string/no_data"
+	    android:textColor="@android:color/secondary_text_light"
+	    android:textSize="@dimen/subtitle_size"
+	    android:layout_centerInParent="true"
+	    android:visibility="gone" />
+</RelativeLayout>
