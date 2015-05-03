@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ActionbarSherlockLibrary/ActionbarSherlockLibrary.iml" filepath="$PROJECT_DIR$/ActionbarSherlockLibrary/ActionbarSherlockLibrary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/AndroidStudio.iml" filepath="$PROJECT_DIR$/AndroidStudio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecipeABSTemplate.iml" filepath="$PROJECT_DIR$/RecipeABSTemplate.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecipesApp 2.2/RecipesApp 2.2.iml" filepath="$PROJECT_DIR$/RecipesApp 2.2/RecipesApp 2.2.iml" />
     </modules>
   </component>
