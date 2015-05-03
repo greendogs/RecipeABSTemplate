@@ -24,7 +24,7 @@
     <string name="gplay_web_url">https://play.google.com/store/apps/details?id=com.your.package</string>
     <string name="share_via">Share via</string>
     <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut fringilla diam. Nulla ullamcorper diam tempus lobortis lacinia. Aliquam quis dolor porttitor, faucibus felis a, vestibulum enim. Cras condimentum tempus lorem id molestie. Suspendisse ultrices egestas malesuada. Maecenas lectus purus, fermentum a tincidunt eget, gravida ut quam. Ut rutrum eget eros at sagittis. Proin dapibus euismod convallis. Praesent non purus sollicitudin, adipiscing risus eu, fermentum ligula. Mauris a est non sem vehicula varius.</string>
-    <string name="copyright">&#169; pongodev.com 2013. All rights reserved.</string>
+    <string name="copyright">&#169; gopragramming.space 2015. All rights reserved.</string>
     <string name="search_hint">Search recipes</string>
     <string name="menu_search">Search</string>
     <string name="detail">RECIPE DETAIL</string>
